@@ -1,2 +1,6 @@
-# CA-113-2-Final-Project
-matrix_chain_multiplication
+# CA-113-2-HW-Final
+課程 : 計算機結構
+開課系所 : 電機系
+課號 : EE4039
+授課教師 : 吳安宇
+修課年度 : 113-2
